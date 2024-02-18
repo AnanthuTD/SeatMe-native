@@ -67,3 +67,5 @@ yarn-error.log
 
 .env*
 .vscode
+
+android/app/src/main/assets/appcenter-config.json
